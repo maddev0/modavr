@@ -26,4 +26,4 @@ loop:
 
 .eseg
 ee_osccal:
-	.db 0x67
+	.db 0x66
